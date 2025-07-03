@@ -1,4 +1,4 @@
-# CSE370---Project---CalFit-
+# CSE370---Project---CalFit+
 
 # 🥗 CalFit+ — Diet & Fitness Management System
 
