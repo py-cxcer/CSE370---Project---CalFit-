@@ -10,7 +10,9 @@
 
 This project was a **collaborative academic effort** aimed at simulating a real-world, database-driven web application. The main objective was to apply practical knowledge of **SQL**, **PHP**, and **web development principles** to design a functional dietary control system with a clean and user-friendly interface.
 
-***For more details, the Project Report has been shared, consisting descriptions of the features and screenshots of the website***
+***For more details, the Project Report has been shared, consisting of descriptions of the features, ER Diagram, Schema Diagram, and screenshots of the website***
+
+
 
 ---
 
@@ -35,5 +37,17 @@ This project was a **collaborative academic effort** aimed at simulating a real-
 | Tools       | phpMyAdmin, XAMPP          |
 
 ---
+
+## ⚠️ Academic Integrity Disclaimer
+
+> *This is an academic project developed for educational purposes as part of a university course.*
+
+
+> **Please Note:**  
+> The contents of this repository, including code, database structure, and design, are shared to showcase technical learning and development practices.  
+>  
+> If you're a student working on a similar assignment or academic project, you are strongly advised **not to copy** this code.  
+>  
+> Instead, use this project as a **reference** to guide your implementation and understanding of the concepts. Learning by doing is the best way forward.
 
 
